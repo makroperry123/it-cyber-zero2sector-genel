@@ -1,6 +1,6 @@
 ## yapılanlar
 1- [[Network Eğitimi]]
-2 - [[security+]]
+2 - [[private/security+]]
 3- [[Temel linux| linux temel eğitimleri]]
 4- [[mavi takım]] 
 5 - kırmızı takım
