@@ -34,7 +34,8 @@ https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEID
 3.1 Monitoring the Network
 3.2 Understanding Intrusion Detection Systems
 
-![[Pasted image 20240505140830.png]]
+
+![Pasted image 20240505140830](https://github.com/user-attachments/assets/a33b876e-f6da-4dae-a559-7a317d0dbbd8)
 
 
 # 4. Implementing and Maintaining a Secure Network
@@ -43,11 +44,14 @@ https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEID
 4.3 Hardening the OS and NOS
 *bu bölüm genel olarak hardening mantığının nasıl olduğundan bahsediyor birkaç server tipi hardening ve servis hardening'den bahsedersek yeterli olur*
 
-![[Pasted image 20240505141022.png]]
+
+![Pasted image 20240505141022](https://github.com/user-attachments/assets/c0d30860-9edd-4039-b095-389e07b39a79)
 
 
 # 5. 
 ![[Pasted image 20240505141433.png]]
+![Pasted image 20240505141433](https://github.com/user-attachments/assets/1747186e-e9b7-4c9a-b398-a0d61f944043)
+
 *sıkıcı ama gene önemli olan bir kısım sosyal mühendislik kısmına katılımcılar arasında oyun oynatabiliriz.*
 
 # 6. Kriptografi mantığı ve internet sertifilakaları
@@ -59,12 +63,18 @@ https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEID
 6.6 Understanding Key Management and the Key Life Cycle
 *https anahtarını kaybetmenin büyük ne kadar büyük bir problem olduğunu*
 ![[Pasted image 20240505142058.png]]
+![Pasted image 20240505142058](https://github.com/user-attachments/assets/86694456-b8a9-422c-99e9-045509e14424)
+
 # 7. 
 ![[Pasted image 20240505142119.png]]
+![Pasted image 20240505142119](https://github.com/user-attachments/assets/250b2377-12db-457e-a9b3-16768623a6f6)
+
 *sıkıcı ama gene önemli olan kısım*
 
 # 8.
 ![[Pasted image 20240505142150.png]]
+![Pasted image 20240505142150](https://github.com/user-attachments/assets/f1286e78-d976-4a1c-b735-205feedd69bd)
+
 * son sıkıcı kısım ve kapanış*
 
 # ekstra 
